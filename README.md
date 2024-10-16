@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishal Sharma.
-- 👀 I’m interested in the Development of Salesforce Solutions and Architecting.
-- 🌱 I’m currently learning Lightning Web Components and 
+- 👀 I love Problem Solving using Technology
+- 🌱 I’m currently learning Machine Learning & Deep Learning.
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---

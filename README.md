@@ -43,4 +43,4 @@ I am actively looking to contribute to **Open Source Projects**—specifically t
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
-*“Technology is most powerful when it’s invisible.”*
+*“The best way to predict the future is to create it." — Peter Drucker”*

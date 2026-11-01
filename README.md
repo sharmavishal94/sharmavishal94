@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 I am a strategic thinker focused on **solving business problems using technology** through the lens of **Product and Design Thinking**. Currently, I operate at the intersection of AI strategy and business scale, ensuring that innovation translates into real-world value.
 
-- 🌍 **Current Role:** Global AI Strategy & Business Operations.
+- 🌍 **Current Role:** Global AI Strategy & Business Operations Manager.
 - 💡 **Mindset:** Obsessed with user-centric design and scalable AI frameworks.
 - 🎯 **Goal:** To build products that aren't just powerful, but intuitive and impactful.
 

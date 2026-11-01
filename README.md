@@ -39,7 +39,7 @@ I am actively looking to contribute to **Open Source Projects**—specifically t
 ---
 
 ## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/vishalsharma94/)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalsharma94/)
 
 ---
 *“The best way to predict the future is to create it." — Peter Drucker”*

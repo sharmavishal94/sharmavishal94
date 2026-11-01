@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm Vishal Sharma
 
-### **Global AI Strategy & Business Operations**
+### **Global AI Strategy & Business Operations Manager**
 *Bridging the gap between complex technology, product design, and business impact.*
 
 ---
